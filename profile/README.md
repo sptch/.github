@@ -25,13 +25,14 @@
 The Center for Spatial Technologies (CST) is a transdisciplinary research group based in Kyiv and Berlin, at the intersection of architecture, the social sciences, investigative and artistic practices. Focused on the multifaceted study of urban environments across time, CST collaborates with a diverse array of cultural, academic, and human rights organizations to render visible various societal important issues, and their spatial implications.
 
 CST's works are featured on leading global platforms, including The New York Times, the Venice Biennale, and President Volodymyr Zelensky's social media.
-## Open Source Tools
+## Open Source Culture
+Our work has a
+lways been deeply rooted in the culture of hacking and open-source. We are committed to building and improving tools, methods, and techniques for spatial analysis. Here are some of the examples:
 
-In our research projects, we create and improve various tools, methods, and techniques for spatial analysis. Here are some highlights:
-  - Photomatching tool for Blender
-  - Reality capture to Gaussian splatting
-  - Methodology for building a digital elevation model
-  - Methodology to study changes in property values in relation to their proximity to the High Line
+-	**Photomatching Tool for Blender:** A tool for precisely matching photographs onto a 3D model by estimating the camera’s focal length and position based on markers on the spatial model and the image, requiring a detailed 3D model of the photographed object.
+ 
+-	**Reality Capture to Gaussian Splatting:** A tutorial on converting photogrammetry data from Reality Capture software into Gaussian splats.
+
 ---
 
 For more information and updates, follow us on [Instagram](https://www.instagram.com/spatialtech.info/), or contact us via [email](mailto:contact@spatialtech.info).
