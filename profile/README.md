@@ -26,8 +26,7 @@ The Center for Spatial Technologies (CST) is a transdisciplinary research group 
 
 CST's works are featured on leading global platforms, including The New York Times, the Venice Biennale, and President Volodymyr Zelensky's social media.
 ## Open Source Culture
-Our work has a
-lways been deeply rooted in the culture of hacking and open-source. We are committed to building and improving tools, methods, and techniques for spatial analysis. Here are some of the examples:
+Our work has always been deeply rooted in the culture of hacking and open-source. We are committed to building and improving tools, methods, and techniques for spatial analysis. Here are some of the examples:
 
 -	[**Photomatching Tool for Blender:**](https://github.com/sptch/image-matcher) A tool for precisely matching photographs onto a 3D model by estimating the camera’s focal length and position based on markers on the spatial model and the image, requiring a detailed 3D model of the photographed object.
  
